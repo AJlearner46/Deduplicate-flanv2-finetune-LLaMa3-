@@ -8,7 +8,7 @@
 
 ## Huggingface links
 - Dataset : https://huggingface.co/datasets/ayushrupapara/flanv2_cot_dedepulicated
-- Model :
+- Model : 🔜
 
 ## Acknowledgments
 - The original dataset is provided by SirNeural/flan_v2.
